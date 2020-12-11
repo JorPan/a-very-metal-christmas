@@ -1,0 +1,43 @@
+
+img {
+    width: 200px;
+    height: 250px;
+}
+
+br {
+    border: 10px solid red;
+    width: 10px;
+    height: 10px;
+}
+
+
+body{
+    background-color: #0c0c0c;
+    color: white;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: gray;
+    color:white;
+    width: 220px;
+    border: 5px solid red;
+    padding: 10px;
+    margin: 10px;
+}
+
+#choose-artist-section{
+    display: flex;
+    min-height: 350px;
+    border: 10px solid red;
+}
+
+#your-metalhead-section {
+    display: flex;
+    min-height: 350px;
+    border: 10px solid red;
+}
+
+
